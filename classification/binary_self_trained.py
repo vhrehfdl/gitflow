@@ -8,6 +8,7 @@ from models.base_model import BaseModel
 from utils.evaluation import Evaluation
 from utils import save_model
 
+# logout
 
 def load_data(train_dir, test_dir):
     tokenizer = get_tokenizer('basic_english')
