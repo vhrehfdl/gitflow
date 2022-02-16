@@ -1,0 +1,5 @@
+/classification/.vector_cache
+/classification/snapshot
+/classification/wandb
+/classification/bert
+/classification/model_save/*.pt
